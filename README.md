@@ -83,15 +83,12 @@ Nuts & Bolts
 * [Heretrix](https://github.com/iipc/heritrix3)
 * [wget](https://www.gnu.org/software/wget/)
 * [pywb](https://github.com/ikreymer/pywb)
-* [WARC](http://www.iso.org/iso/catalogue_detail.htm?csnumber=44717): ISO 28500:2009
-
-    wget -H -Dwww.cua.edu -r -l 2 --warc-file=cua --convert-links="on" http://lis.cua.edu/courses/index.cfm
-
+* [WARC](http://www.iso.org/iso/catalogue_detail.htm?csnumber=44717): ISO 28500:2009 ; wget -H -Dwww.cua.edu -r -l 2 --warc-file=cua --convert-links="on" http://lis.cua.edu/courses/index.cfm
 * [Memento](http://tools.ietf.org/html/rfc7089) RFC 7089
 * [UNT Nomination Tool](http://digital2.library.unt.edu/nomination/)
 
-Web Packages
-------------
+Interlude: Web Packages
+-----------------------
 
 * Demo Facebook and Twitter "archive" packages.
 * [Packaging on the Web](https://github.com/w3ctag/packaging-on-the-web)
@@ -127,9 +124,11 @@ What can you do?
   * outreach with your community
   * best practices / guidance
 * Keep an open mind.
+* Have a whole class about web archiving!
 
 Learn More
 ----------
 
+* [ArchiveIt](https://archive-it.org/) webinars for libraries, archives, classes.
 * [More Podcast Less Process](http://keepingcollections.org/more-podcast-less-process/) - Episode #7 on Web Archiving - Alex Thurman (Columbia) and Lily Pregill (New York Art Resources Consortium)
 * [Web Curators Mailing List](http://netpreserve.org/web-curators-mailing-list)
