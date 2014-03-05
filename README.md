@@ -55,8 +55,8 @@ Library of Congress
 * [notification](http://www.loc.gov/webarchiving/notice_to_webmasters.html)
 * seed lists, scoping
 * quality control 
-* 6 month embargo
-* access
+* embargo period
+* access!
 
 The Wider Web
 -------------
