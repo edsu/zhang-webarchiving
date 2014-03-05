@@ -71,7 +71,7 @@ The Wider Web
 * [ArchiveTeam](http://archiveteam.org/)
 * [ArchiveSocial](http://archivesocial.com/)
 * [CommonCrawl](http://commoncrawl.org/)
-* [Social Feed Manager][https://github.com/gwu-libraries/social-feed-manager]
+* [Social Feed Manager](https://github.com/gwu-libraries/social-feed-manager)
 
 Nuts & Bolts
 ------------
