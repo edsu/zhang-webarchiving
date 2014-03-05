@@ -17,12 +17,12 @@ Hi
 * My background
 * NDF Talk: [Web as a Preservation Medium](http://inkdroid.org/journal/2013/11/26/the-web-as-a-preservation-medium/)
 
-Why Does the Web Archive Matter?
---------------------------------
+Who Cares?
+----------
 
+* The Internet Archive and Library of Congress are handling this right?
 * [Supreme Court Opionions Clicks That Lead Nowhere](http://www.nytimes.com/2013/09/24/us/politics/in-supreme-court-opinions-clicks-that-lead-nowhere.html)
 * [UK Conservative Party deletes links](http://www.theguardian.com/politics/2013/nov/13/conservative-party-archive-speeches-internet)
-* lots of work to do
 
 How much of the Web is archived?
 --------------------------------
