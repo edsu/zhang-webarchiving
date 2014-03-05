@@ -38,7 +38,7 @@ Even if archivists in a particular country were to preserve every record generat
 
 The archival record is best understood as a sliver of a sliver of a sliver of a window into process. It is a fragile thing, an enchanted thing, defined not by its connection to “reality”, but by its open-ended layerings of construction and reconstruction.
 
-Verne Harris - [The Archival Sliver](http://www.nyu.edu/classes/bkg/methods/harris.pdf)
+-- Verne Harris - [The Archival Sliver](http://www.nyu.edu/classes/bkg/methods/harris.pdf)
 
 lower case "p" politics
 -----------------------
