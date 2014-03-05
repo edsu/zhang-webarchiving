@@ -20,7 +20,7 @@ Hi
 Who Cares?
 ----------
 
-* The Internet Archive and Library of Congress are handling this right?
+* The Internet Archive and Library of Congress have got this covered right?
 * [Supreme Court Opionions Clicks That Lead Nowhere](http://www.nytimes.com/2013/09/24/us/politics/in-supreme-court-opinions-clicks-that-lead-nowhere.html)
 * [UK Conservative Party deletes links](http://www.theguardian.com/politics/2013/nov/13/conservative-party-archive-speeches-internet)
 
