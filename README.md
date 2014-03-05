@@ -4,8 +4,8 @@ A Brief Look at Web Archiving
 Notes for Jane Zhang's Digital Curation class at Catholic University.
 March 5, 2014.
 
-Introduction
-------------
+Hi
+--
 
 * How many people use social media, have a website, run a webserver?
 * Why do we love the Web? Why do we hate the Web?
