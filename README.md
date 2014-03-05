@@ -27,7 +27,7 @@ Who Cares?
 How much of the Web is archived?
 --------------------------------
 
-* Not a solved problem.
+* Not a [solved problem](http://en.wikipedia.org/wiki/List_of_Web_archiving_initiatives).
 * IA: 366 billion
 * IIPC: 75 billion
 * Google: 1T URLs 
