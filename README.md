@@ -69,7 +69,7 @@ The Wider Web
 * [perma.cc](http://perma.cc)
 * [ArchiveIt](http://archiveit.org)
   * [Columbia University Human Rights Watch Archive](http://library.columbia.edu/locations/chrdr/hrwa.html)
-  * [2014 Winter Olympics](https://archive-it.org/collections/4200)
+  * [2014 Winter Olympics](https://archive-it.org/collections/4200) selected with [UNT Nomination Tool](http://digital2.library.unt.edu/nomination/)
 * [Hanzo](http://www.hanzoarchives.com/)
 * [ArchiveTeam](http://archiveteam.org/)
 * [ArchiveSocial](http://archivesocial.com/)
@@ -88,7 +88,6 @@ Nuts & Bolts
 * [pywb](https://github.com/ikreymer/pywb)
 * [WARC](http://www.iso.org/iso/catalogue_detail.htm?csnumber=44717): ISO 28500:2009 ; wget -H -Dwww.cua.edu -r -l 2 --warc-file=cua --convert-links="on" http://lis.cua.edu/courses/index.cfm
 * [Memento](http://tools.ietf.org/html/rfc7089) RFC 7089
-* [UNT Nomination Tool](http://digital2.library.unt.edu/nomination/)
 
 Interlude: Web Packages
 -----------------------
