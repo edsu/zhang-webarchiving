@@ -68,7 +68,7 @@ The Wider Web
 * [IIPC](http://netpreserve.org)
 * [perma.cc](http://perma.cc)
 * [ArchiveIt](http://archiveit.org)
-  * [Columbia University Human Rights Watch Archive](http://library.columbia.edu/locations/chrdr/hrwa.html)
+  * e.g. [Columbia University Human Rights Watch Archive](http://library.columbia.edu/locations/chrdr/hrwa.html)
   * [2014 Winter Olympics](https://archive-it.org/collections/4200) selected with [UNT Nomination Tool](http://digital2.library.unt.edu/nomination/)
 * [Hanzo](http://www.hanzoarchives.com/)
 * [ArchiveTeam](http://archiveteam.org/)
