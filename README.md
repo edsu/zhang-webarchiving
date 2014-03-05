@@ -39,8 +39,8 @@ Despair?
 >    Even if archivists in a particular country were to preserve every record generated throughout the land, they would still have only a sliver of a window into that country’s experience. But of course in practice, this record universum is substantially reduced through deliberate and inadvertent destruction by records creators and managers, leaving a sliver of a sliver from which archivists select what they will preserve. And they do not preserve much.
 >
 >    The archival record is best understood as a sliver of a sliver of a sliver of a window into process. It is a fragile thing, an enchanted thing, defined not by its connection to “reality”, but by its open-ended layerings of construction and reconstruction.
+> Verne Harris - [The Archival Sliver](http://www.nyu.edu/classes/bkg/methods/harris.pdf)
 
-* Verne Harris - [The Archival Sliver](http://www.nyu.edu/classes/bkg/methods/harris.pdf)
 * [Losing My Revolution](http://arxiv.org/abs/1209.3026)
 * [Wikileaks](http://www.wikileaks.org)
 * [NSA Files](http://www.theguardian.com/world/the-nsa-files+content/document)
