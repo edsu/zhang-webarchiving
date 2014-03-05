@@ -12,10 +12,10 @@ Introduction
 * The Web needs to be cared for, and it needs the collective attention of 
   archivists, to create archives of web content and to help build a Web 
   that can be. 
-* [What is the archive, to archive, an * archive?](http://blogs.loc.gov/digitalpreservation/2014/02/what-do-you-mean-by-archive-genres-of-usage-for-digital-preservers/)
+* [What is the archive, to archive, an archive?](http://blogs.loc.gov/digitalpreservation/2014/02/what-do-you-mean-by-archive-genres-of-usage-for-digital-preservers/)
 * Archivvy: select, appraise, arrange, describe, preserve, make available
 * My background
-* NDF Talk: [Web as a Preservation * Medium](http://inkdroid.org/journal/2013/11/26/the-web-as-a-preservation-medium/)
+* NDF Talk: [Web as a Preservation Medium](http://inkdroid.org/journal/2013/11/26/the-web-as-a-preservation-medium/)
 
 Why Does the Web Archive Matter?
 --------------------------------
