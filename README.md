@@ -42,8 +42,8 @@ Despair?
 >
 > Verne Harris - [The Archival Sliver](http://www.nyu.edu/classes/bkg/methods/harris.pdf)
 
-Politics
---------
+lower case "p" politics
+-----------------------
 
 * [Losing My Revolution](http://arxiv.org/abs/1209.3026)
 * [Wikileaks](http://www.wikileaks.org)
