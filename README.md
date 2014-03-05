@@ -9,9 +9,7 @@ Hi
 
 * How many people use social media, have a website, run a webserver?
 * Why do we love the Web? Why do we hate the Web?
-* The Web needs to be cared for, and it needs the collective attention of 
-  archivists, to create archives of web content and to help build a Web 
-  that can be. 
+* The Web needs to be cared for, and it needs archivists.
 * [What is the archive, to archive, an archive?](http://blogs.loc.gov/digitalpreservation/2014/02/what-do-you-mean-by-archive-genres-of-usage-for-digital-preservers/)
 * Archivvy: select, appraise, arrange, describe, preserve, make available
 * My background
