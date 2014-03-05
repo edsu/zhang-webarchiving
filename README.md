@@ -42,10 +42,10 @@ Despair?
 
     The archival record is best understood as a sliver of a sliver of a sliver of a window into process. It is a fragile thing, an enchanted thing, defined not by its connection to “reality”, but by its open-ended layerings of construction and reconstruction.
 
-  * [Losing My Revolution](http://arxiv.org/abs/1209.3026)
-  * [Wikileaks](http://www.wikileaks.org)
-  * [NSA Files](http://www.theguardian.com/world/the-nsa-files+content/document)
-  * [Manning Transcripts](https://pressfreedomfoundation.org/bradley-manning-transcripts)
+* [Losing My Revolution](http://arxiv.org/abs/1209.3026)
+* [Wikileaks](http://www.wikileaks.org)
+* [NSA Files](http://www.theguardian.com/world/the-nsa-files+content/document)
+* [Manning Transcripts](https://pressfreedomfoundation.org/bradley-manning-transcripts)
 
 Library of Congress
 -------------------
